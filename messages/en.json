@@ -1,0 +1,78 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close"
+  },
+  "navigation": {
+    "home": "Home",
+    "trips": "My Trips",
+    "explore": "Explore",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "loginSuccess": "Welcome back!",
+    "registerSuccess": "Account created successfully",
+    "loginError": "Invalid credentials",
+    "registerError": "Registration failed"
+  },
+  "trips": {
+    "createTrip": "Create New Trip",
+    "tripName": "Trip Name",
+    "destination": "Destination",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "budget": "Budget",
+    "travelers": "Number of Travelers",
+    "myTrips": "My Trips",
+    "upcomingTrips": "Upcoming Trips",
+    "pastTrips": "Past Trips"
+  },
+  "chat": {
+    "askAnything": "Ask me anything about your trip...",
+    "startConversation": "Start planning your perfect trip!",
+    "suggestedQuestions": [
+      "Plan a 5-day trip to Tokyo",
+      "Find romantic restaurants in Paris",
+      "What are the best activities in New York?",
+      "Suggest hotels under $200 per night"
+    ]
+  },
+  "booking": {
+    "bookNow": "Book Now",
+    "checkAvailability": "Check Availability",
+    "selectDates": "Select Dates",
+    "guests": "Guests",
+    "rooms": "Rooms",
+    "adults": "Adults",
+    "children": "Children",
+    "totalPrice": "Total Price",
+    "pricePerNight": "per night",
+    "bookingConfirmed": "Booking Confirmed",
+    "bookingError": "Booking failed"
+  },
+  "camera": {
+    "takePhoto": "Take Photo",
+    "uploadPhoto": "Upload Photo",
+    "scanMenu": "Scan Menu",
+    "translateText": "Translate Text",
+    "identifyLandmark": "Identify Landmark"
+  }
+}

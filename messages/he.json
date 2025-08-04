@@ -1,0 +1,78 @@
+{
+  "common": {
+    "loading": "טוען...",
+    "error": "אירעה שגיאה",
+    "success": "הצלחה",
+    "cancel": "ביטול",
+    "save": "שמירה",
+    "delete": "מחיקה",
+    "edit": "עריכה",
+    "search": "חיפוש",
+    "next": "הבא",
+    "previous": "הקודם",
+    "close": "סגירה"
+  },
+  "navigation": {
+    "home": "בית",
+    "trips": "הנסיעות שלי",
+    "explore": "גלה",
+    "profile": "פרופיל",
+    "settings": "הגדרות",
+    "logout": "יציאה"
+  },
+  "auth": {
+    "login": "התחברות",
+    "register": "הרשמה",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "confirmPassword": "אישור סיסמה",
+    "forgotPassword": "שכחת סיסמה?",
+    "resetPassword": "איפוס סיסמה",
+    "loginSuccess": "ברוך הבא!",
+    "registerSuccess": "החשבון נוצר בהצלחה",
+    "loginError": "פרטי התחברות שגויים",
+    "registerError": "ההרשמה נכשלה"
+  },
+  "trips": {
+    "createTrip": "יצירת נסיעה חדשה",
+    "tripName": "שם הנסיעה",
+    "destination": "יעד",
+    "startDate": "תאריך התחלה",
+    "endDate": "תאריך סיום",
+    "budget": "תקציב",
+    "travelers": "מספר נוסעים",
+    "myTrips": "הנסיעות שלי",
+    "upcomingTrips": "נסיעות קרובות",
+    "pastTrips": "נסיעות קודמות"
+  },
+  "chat": {
+    "askAnything": "שאל אותי כל שאלה על הנסיעה שלך...",
+    "startConversation": "בוא נתחיל לתכנן את הנסיעה המושלמת שלך!",
+    "suggestedQuestions": [
+      "תכנן נסיעה של 5 ימים לטוקיו",
+      "מצא מסעדות רומנטיות בפריז",
+      "מה הפעילויות הטובות ביותר בניו יורק?",
+      "הצע מלונות מתחת ל-200 דולר ללילה"
+    ]
+  },
+  "booking": {
+    "bookNow": "הזמן עכשיו",
+    "checkAvailability": "בדוק זמינות",
+    "selectDates": "בחר תאריכים",
+    "guests": "אורחים",
+    "rooms": "חדרים",
+    "adults": "מבוגרים",
+    "children": "ילדים",
+    "totalPrice": "מחיר כולל",
+    "pricePerNight": "ללילה",  
+    "bookingConfirmed": "ההזמנה אושרה",
+    "bookingError": "ההזמנה נכשלה"
+  },
+  "camera": {
+    "takePhoto": "צלם תמונה",
+    "uploadPhoto": "העלה תמונה",
+    "scanMenu": "סרוק תפריט",
+    "translateText": "תרגם טקסט",
+    "identifyLandmark": "זהה ציון דרך"
+  }
+}
